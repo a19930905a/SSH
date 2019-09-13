@@ -1,0 +1,17 @@
+git init 		-- 初始化 git 倉庫
+git status 		-- 查看狀況
+git add			-- 將文件添加到git倉庫暫存區
+git commit -m  " "	-- 將被添加到暫存區的文件提交到git倉庫
+git log			-- 查看日誌
+
+git branch		-- 查看分支
+git branch XX		-- 創建一個名為 XX 的分支
+git checkout XX		-- 切換到 XX 分支
+git brach -d XX		-- 刪除 XX 分支
+
+git clone
+git config		-- 配置訊息
+git push origin XX  	-- 將本地代碼upload至github	, XX 表示哪個分支
+git pull origin XX	-- 將遠程代碼更新到本機
+
+git merge		-- 合併
