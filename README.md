@@ -14,4 +14,6 @@ mysql-connector-java-5.1.48-bin
 
 c3p0-0.9.1
 
+
+所使用的資料表關聯關係:
 ![image](https://github.com/a19930905a/SSH/blob/master/%E8%B3%87%E6%96%99%E8%A1%A8%E9%97%9C%E8%81%AF.png)
