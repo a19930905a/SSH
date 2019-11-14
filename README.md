@@ -1,4 +1,4 @@
-![image](https://github.com/a19930905a/SSH/blob/master/%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA.gif)
+![image](https://github.com/a19930905a/SSH/blob/master/%E5%8A%9F%E8%83%BD.gif)
 
 Spring+Hibernate+SpringMVC 整合Demo
 
