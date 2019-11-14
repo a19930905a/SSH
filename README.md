@@ -1,4 +1,4 @@
-Spring+Hibernate整合Demo
+Spring+Hibernate+SpringMVC 整合Demo
 
 版本環境：
 
